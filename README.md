@@ -1,2 +1,2 @@
-# archangel-core
-Archangel Core
+# archangel-core-models
+Archangel Core Models
