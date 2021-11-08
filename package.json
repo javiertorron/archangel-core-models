@@ -1,6 +1,6 @@
 {
-  "name": "@unrealcreations/archangel -models",
-  "version": "0.1.0",
+  "name": "@unrealcreations/archangel-models",
+  "version": "0.1.1",
   "description": "Models for Archangel",
   "main": "index.js",
   "scripts": {
