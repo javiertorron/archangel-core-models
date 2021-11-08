@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/javiertorron/archangel-core-models/issues"
   },
-  "homepage": "https://github.com/javiertorron/archangel-core-models#readme"
+  "homepage": "https://github.com/javiertorron/archangel-core-models#readme",
+  "dependencies": {
+    "mongoose": "^6.0.12"
+  }
 }
